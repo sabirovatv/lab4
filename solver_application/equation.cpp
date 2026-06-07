@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 #include "formatter_ex.h"
 #include "solver.h"
 
